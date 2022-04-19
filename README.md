@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RITHESH NK</h1>
 <h3 align="center">ENROUTE TO BECOME WEB DEVELOPER</h3>
 
-- 🔭 I’m currently working on [MY PERSONAL](https://ritheshnk.github.io/personalwebsite)
+- 🔭 I’m currently working on [MY PERSONAL](https://ritheshnk.github.io/personalwebsitecss/)
 
 - 🌱 I’m currently learning **Frontend and Backend of website**
 
