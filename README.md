@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritheshnk](https://github.com/ritheshnk)
 
-- 💬 Ask me about **HTML5**
+- 💬 Ask me about **HTML5** **CSS*
 
 - 📫 How to reach me **nkrithesh@gmail.com**
 
