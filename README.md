@@ -23,13 +23,15 @@
 
 - 💬 Ask me about **C,HTML,CSS,PYTHON**
 
+- ⚡ Fun fact **Dirty Minded**
+
 # Contact with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  
 
 - 📫 How to reach me **nkrithesh51@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nTK1xWNTD4fTDSumkoW4R0stpa--ahGJ/view?usp=sharing](https://drive.google.com/file/d/1nTK1xWNTD4fTDSumkoW4R0stpa--ahGJ/view?usp=sharing)
 
-- ⚡ Fun fact **Dirty Minded**
+
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 <p align="left">
