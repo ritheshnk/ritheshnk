@@ -1,7 +1,8 @@
-![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Rithesh NK</h1>
-<h3 align="center" >A Computer Science Engineer</h3>
-<img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RITHESH</h1>
+<h3 align="center">I'm a passionate COMPUTER SCIENCE ENGINEER from India.</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritheshnk" alt="ritheshnk" /></a> </p>
 
