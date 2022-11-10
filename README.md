@@ -16,13 +16,15 @@
 
 - 💬 Ask me about **C,HTML,CSS,PYTHON**
 
+# Contact with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  
+
 - 📫 How to reach me **nkrithesh51@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nTK1xWNTD4fTDSumkoW4R0stpa--ahGJ/view?usp=sharing](https://drive.google.com/file/d/1nTK1xWNTD4fTDSumkoW4R0stpa--ahGJ/view?usp=sharing)
 
 - ⚡ Fun fact **Dirty Minded**
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/nkrithesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nkrithesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rithesh-nk-6ab7661a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rithesh-nk-6ab7661a4" height="30" width="40" /></a>
@@ -40,5 +42,29 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritheshnk&show_icons=true&locale=en" alt="ritheshnk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritheshnk&" alt="ritheshnk" /></p>
-## Snake eating my Contribution Graph!!!
-![snake gif](https://github.com/ritheshnk/ritheshnk/blob/output/github-contribution-grid-snake.gif)
+
+
+  ## 📊 My Github Stats
+
+  <br/> 
+    <a href="https://github.com/ritheshnk/github-readme-stats"><img alt=RITHESH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritheshnk&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ritheshnk/github-readme-stats"><img alt="RITHESH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritheshnk&langs_count=15&theme=radical"/></a>
+</a>
+  <br/>
+
+<br>  
+</br>
+  
+<br/>
+<br/>
+
+<a href="https://github.com/ritheshnk/github-readme-activity-graph"><img alt="RITHESH's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ritheshnk&bg_color=0D1117&theme=radical&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+##  Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rithehnk">
+</a>
+<a href="https://github.com/ritheshnk?tab=followers"><img src="https://img.shields.io/github/followers/ritheshnk?label=Followers&style=social" alt="GitHub Badge"></a>
