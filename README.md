@@ -6,8 +6,8 @@
 
 <h1 align="center">WELCOME TO MY GITHUB ACCOUNT 👋</h1>
 <h3 align="center">   </h3>
-<img align="right"alt="Coding"width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- <p align="center"> <img width="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="animated" /> </p>
+<img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <p align="center"> <img width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="animated" /> </p>
 
 
 
