@@ -4,6 +4,13 @@
 <h3 align="center">I'm a passionate COMPUTER SCIENCE ENGINEER from India.</h3>
 
 
+<h1 align="center">WELCOME TO MY GITHUB ACCOUNT 👋</h1>
+<h3 align="center">   </h3>
+<img align="right"alt="Coding"width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <p align="center"> <img width="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="animated" /> </p>
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritheshnk" alt="ritheshnk" /></a> </p>
 
 - 🔭 I’m currently working on [Phoenix Polymer Products](phoenixpolymer.com)
