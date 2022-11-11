@@ -77,3 +77,8 @@
     <img src="https://komarev.com/ghpvc/?username=rithehnk">
 </a>
 <a href="https://github.com/ritheshnk?tab=followers"><img src="https://img.shields.io/github/followers/ritheshnk?label=Followers&style=social" alt="GitHub Badge"></a>
+
+ 
+ 
+ ### My Contributions:
+ ![snake gif](https://github.com/ritheshnk/ritheshnk/blob/output/github-contribution-grid-snake.gif)
