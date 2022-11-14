@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **Dirty Minded**
 
-# Contact with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  
+# Contact me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  
 
 - 📫 How to reach me **nkrithesh51@gmail.com**
 
