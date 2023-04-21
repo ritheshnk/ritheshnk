@@ -80,5 +80,5 @@
 
  
  
- ### My Contributions:
- ![snake gif](https://github.com/ritheshnk/ritheshnk/blob/output/github-contribution-grid-snake.gif)
+<!--  ### My Contributions:
+ ![snake gif](https://github.com/ritheshnk/ritheshnk/blob/output/github-contribution-grid-snake.gif) -->
