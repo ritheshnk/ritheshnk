@@ -67,7 +67,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ritheshnk/github-readme-activity-graph"><img alt="RITHESH's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ritheshnk&bg_color=0D1117&theme=radical&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
