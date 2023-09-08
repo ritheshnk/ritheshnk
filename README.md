@@ -27,7 +27,7 @@
 
 # Contact me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  
 
-- 📫 How to reach me **nkrithesh51@gmail.com**
+- 📫 How to reach me **nkrithesh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nTK1xWNTD4fTDSumkoW4R0stpa--ahGJ/view?usp=sharing](https://drive.google.com/file/d/1nTK1xWNTD4fTDSumkoW4R0stpa--ahGJ/view?usp=sharing)
 
